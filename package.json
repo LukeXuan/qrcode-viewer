@@ -1,0 +1,17 @@
+{
+  "name": "wordpress-qrcode-viewer",
+  "version": "0.0.1",
+  "private": true,
+  "authors": [
+    "LukeXuan"
+  ],
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-cached": "^1.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-footer": "^1.0.5",
+    "gulp-header": "^1.7.1",
+    "gulp-jshint": "^2.0.0",
+    "gulp-remember": "^0.3.0"
+  }
+}

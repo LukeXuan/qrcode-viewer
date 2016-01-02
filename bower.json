@@ -1,0 +1,12 @@
+{
+  "name": "wordpress-qrcode-viewer",
+  "version": "0.0.1",
+  "private": true,
+  "authors": [
+    "LukeXuan"
+  ],
+  "main": "qrcode.js",
+  "dependencies": {
+    "qrcode-js": "*"
+  }
+}
