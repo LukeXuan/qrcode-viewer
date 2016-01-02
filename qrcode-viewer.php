@@ -44,7 +44,7 @@ if ( !function_exists("add_action")) {
     exit;
 }
 
-define("QRCODE_VIEWER_VERSION", "0.0.1");
+define("QRCODE_VIEWER_VERSION", "0.0.2");
 define("QRCODE_VIEWER_MINIMUM_WP_VERSION", "4.4");
 define("QRCODE_VIEWER__PLUGIN_URL", plugin_dir_url(__FILE__));
 define("QRCODE_VIEWER__PLUGIN_DIR", plugin_dir_path(__FILE__));
